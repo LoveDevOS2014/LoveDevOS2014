@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LoveDevOS2014/LoveDevOS2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Carter!
 
-Here are some ideas to get you started:
+### `LoveDevOS2014` · he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linux user • hobby coder • gamer**
+
+[![Fedora](https://img.shields.io/badge/Fedora-0B0B0F?style=for-the-badge&logo=fedora&logoColor=FF8C00)](https://fedoraproject.org/)
+[![HTML](https://img.shields.io/badge/HTML-0B0B0F?style=for-the-badge&logo=html5&logoColor=FF8C00)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=FF8C00)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=FF8C00)](https://www.python.org/)
+
+</div>
+
+---
+
+## 🐧 About me
+
+- I use **Fedora Linux** and enjoy all things Linux.
+- I make things with **HTML**, and I'm learning **JavaScript** and **Python**.
+- I also create projects in **Scratch**.
+- When I'm not coding, I'm usually playing **Bloons TD** or another game. 🎮
+
+## 🛠️ Things I use and enjoy
+
+<p>
+  <img src="https://img.shields.io/badge/Fedora-2B174C?style=flat-square&logo=fedora&logoColor=FF8C00" alt="Fedora" />
+  <img src="https://img.shields.io/badge/HTML-2B174C?style=flat-square&logo=html5&logoColor=FF8C00" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-2B174C?style=flat-square&logo=javascript&logoColor=FF8C00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-2B174C?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
+  <img src="https://img.shields.io/badge/Scratch-2B174C?style=flat-square&logo=scratch&logoColor=FF8C00" alt="Scratch" />
+</p>
+
+<div align="center">
+
+*Powered by curiosity, code, and a little bit of penguin energy.* 🐧
+
+</div>
